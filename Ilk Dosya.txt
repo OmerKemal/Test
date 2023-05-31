@@ -1,2 +1,1 @@
-Merhaba bu benim ilk github denemem!!!
-Ilk ders stage area, version ve ....
+this is version 2
